@@ -1,0 +1,4 @@
+000000.000| ini: no ini file Launcher.cfg
+000000.155| Input Devices enabled: Mouse, Keyboard
+000000.397| VMEM As seen through DDRaw: 0
+000000.398| VMEM As seen through WMI: 0
